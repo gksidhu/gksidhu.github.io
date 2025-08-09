@@ -1,4 +1,0 @@
-# NVIDIA Morpheus dependencies (example, adjust as needed)
-morpheus
-pandas
-numpy
